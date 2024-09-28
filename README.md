@@ -83,13 +83,12 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-Navigate to the project directory:
+   git clone https://github.com/Reubend0710/portfolioReubendsilva.git
+   
+2. Navigate to the project directory:
+cd PortfolioReubendsilva
 
-bash
-Copy code
-cd your-portfolio
-Open the index.html file in your preferred web browser.
+3. Open the index.html file in your preferred web browser.
 
 Usage
 Feel free to customize the content to reflect your own work, skills, and experiences. You can add projects, update the about section, and modify styles as needed.
@@ -97,8 +96,8 @@ Feel free to customize the content to reflect your own work, skills, and experie
 Contact
 If you have any questions or feedback, feel free to reach out to me:
 
-Email: your-email@example.com
-GitHub: yourusername
+Email: reubendsilva0000@gmail.com
+GitHub: Reubend0710
 
 
 License
