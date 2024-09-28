@@ -43,7 +43,7 @@ Feel free to customize the content to reflect your own work, skills, and experie
 Contact 
 If you have any questions or feedback, feel free to reach out to me:
 
-Email: your-reubendsilva0000@gmail.com
+Email: reubendsilva0000@gmail.com
 GitHub: Reubend0710
 
 
